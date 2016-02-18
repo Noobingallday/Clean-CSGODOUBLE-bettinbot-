@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name            csgodouble.com - automated
 // @description     An userscript that automates csgodouble.com betting using martingale system.
-// @namespace       automated@mole
+// @namespace       automated@Noobing_all_day
 // @version         1.32
-// @author          Mole
+// @author          Noobing_all_day
 // @match           http://www.csgodouble.com/
 // @match           http://www.csgodouble.com/index.php
 // @match           http://csgodouble.com/
